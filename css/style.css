@@ -141,3 +141,16 @@
 .page-header .breadcrumb-item+.breadcrumb-item::before {
     color: #999999;
 }
+
+/*** Category ***/
+.cat-item {
+    display: block;
+    box-shadow: 0 0 45px rgba(0, 0, 0, .08);
+    border: 2px solid;
+    transition: .5s;
+}
+
+.cat-item:hover {
+    border-color: rgba(0, 0, 0, .08);
+    box-shadow: none;
+}
