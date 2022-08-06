@@ -158,3 +158,24 @@
     border-color: rgba(0, 0, 0, .08);
     box-shadow: none;
 }
+
+/*** Team ***/
+.team-text {
+    position: absolute;
+    width: 75%;
+    bottom: 30px;
+    left: 0;
+    transition: .5s;
+}
+
+.team-item:hover .team-text {
+    width: 100%;
+}
+
+.team-text * {
+    transition: .5s;
+}
+
+.team-item:hover .team-text * {
+    letter-spacing: 2px;
+}
