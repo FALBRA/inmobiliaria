@@ -6,7 +6,7 @@
           <h1 class="display-3 text-white mb-3 animated slideInDown text-uppercase"><b>Nosotros</b></h1>
           <nav aria-label="breadcrumb">
               <ol class="breadcrumb">
-                  <li class="breadcrumb-item"><a href="index.html">Inicio</a></li>
+                  <li class="breadcrumb-item"><a href="index.php">Inicio</a></li>
                   <li class="breadcrumb-item"><a href="">Proyectos</a></li>
                   <li class="breadcrumb-item text-white active" aria-current="page">Contactanos</li>
               </ol>
