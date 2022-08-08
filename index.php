@@ -229,7 +229,7 @@ include('header.php');
                   <h6 class="mb-0">Verified professionals</h6>
                 </div>
               </div>
-              <a class="btn btn-primary py-3 px-5 mt-3" href="">Conócenos</a>
+              <a class="btn btn-primary py-3 px-5 mt-3" href="nosotros.php">Conócenos</a>
             </div>
           </div>
         </div>
