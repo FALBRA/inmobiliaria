@@ -7,7 +7,7 @@
             <nav aria-label="breadcrumb">
                 <ol class="breadcrumb">
                     <li class="breadcrumb-item"><a href="index.php">Inicio</a></li>
-                    <li class="breadcrumb-item"><a href="">Proyectos</a></li>
+                    <li class="breadcrumb-item"><a href="proyectos.php">Proyectos</a></li>
                     <li class="breadcrumb-item text-white active" aria-current="page">Contactanos</li>
                 </ol>
             </nav>
@@ -22,28 +22,29 @@
             <div class="row g-4">
                 <div class="col-12">
                     <div class="row gy-4">
-                        <div class="col-md-4 wow fadeIn" data-wow-delay="0.1s">
-                            <div class="d-flex align-items-center bg-light rounded p-4">
-                                <div class="bg-white border rounded d-flex flex-shrink-0 align-items-center justify-content-center me-3" style="width: 45px; height: 45px;">
-                                    <i class="fa fa-map-marker-alt text-primary"></i>
-                                </div>
-                                <span>Huanuco</span>
-                            </div>
-                        </div>
+                        
                         <div class="col-md-4 wow fadeIn" data-wow-delay="0.3s">
-                            <div class="d-flex align-items-center bg-light rounded p-4">
+                            <div class="d-flex align-items-center bg-light rounded p-3">
                                 <div class="bg-white border rounded d-flex flex-shrink-0 align-items-center justify-content-center me-3" style="width: 45px; height: 45px;">
                                     <i class="fa fa-envelope-open text-primary"></i>
                                 </div>
-                                <span>kybinmobiliaria@gmail.com</span>
+                                <span>kybinmobiliaria1@gmail.com</span>
                             </div>
                         </div>
                         <div class="col-md-4 wow fadeIn" data-wow-delay="0.5s">
-                            <div class="d-flex align-items-center bg-light rounded p-4">
+                            <div class="d-flex align-items-center bg-light rounded p-3">
                                 <div class="bg-white border rounded d-flex flex-shrink-0 align-items-center justify-content-center me-3" style="width: 45px; height: 45px;">
                                     <i class="fa fa-phone-alt text-primary"></i>
                                 </div>
-                                <span>+51 914069125</span>
+                                <span>+51 941912434</span>
+                            </div>
+                        </div>
+                        <div class="col-md-4 wow fadeIn" data-wow-delay="0.7s">
+                            <div class="d-flex align-items-center bg-light rounded p-3">
+                                <div class="bg-white border rounded d-flex flex-shrink-0 align-items-center justify-content-center me-3" style="width: 45px; height: 45px;">
+                                    <i class="fa fa-phone-alt text-primary"></i>
+                                </div>
+                                <span>+51 990440161</span>
                             </div>
                         </div>
                     </div>

@@ -199,15 +199,9 @@ include('header.php');
               </h1>
             </div>
             <p>
-              Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit.
-              Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit,
-              sed stet lorem sit clita duo justo magna dolore erat amet
+            K&B Consultoría e Inmobiliaria es una empresa peruana que tiene como objetivo satisfacer las necesidades inmobiliarias de su comunidad, y para ello ofrecen el servicio de asesoramiento en temas de construcción civil, compra y venta de inmuebles y desarrollo de proyectos inmobiliarios para su publico objetivo, acompañándolo en todo el proceso con un mutuo trato de honestidad y confianza. Resaltamos por tener un trato más personalizado, con una amplia variedad de productos y servicio a un precio justo.
             </p>
-            <p class="mb-4">
-              Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit.
-              Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit,
-              sed stet lorem sit clita duo justo magna dolore erat amet
-            </p>
+            
             <div class="border-top mt-4 pt-4">
               <div class="row g-4">
                 <div class="col-sm-4 d-flex wow fadeIn" data-wow-delay="0.1s">

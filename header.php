@@ -8,7 +8,7 @@
     <meta content="" name="description" />
 
     <!-- Favicon -->
-    <link href="img/favicon.ico" rel="icon" />
+    <link href="img/Logokyb.png" rel="icon" />
 
     <!-- Google Web Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com" />
@@ -44,31 +44,37 @@
     <!-- Topbar Start -->
     <div class="container-fluid bg-light p-0">
         <div class="row gx-0 d-none d-lg-flex">
-          <div class="col-lg-7 px-5 text-start">
+          <div class="col-lg-9 px-5 text-start">
             <div
               class="h-100 d-inline-flex align-items-center border-start border-end px-3"
             >
               <small class="fa fa-phone-alt me-2"></small>
-              <small>+51 914069125</small>
+              <small>+51 941912434</small>
+            </div>
+            <div
+              class="h-100 d-inline-flex align-items-center border-end px-3"
+            >
+              <small class="fa fa-phone-alt me-2"></small>
+              <small>+51 990440161</small>
             </div>
             <div class="h-100 d-inline-flex align-items-center border-end px-3">
               <small class="far fa-envelope-open me-2"></small>
-              <small>kybinmobiliaria@gmail.com</small>
+              <small>kybinmobiliaria1@gmail.com</small>
             </div>
             <div class="h-100 d-inline-flex align-items-center border-end px-3">
               <small class="far fa-clock me-2"></small>
               <small>Lunes - Sabado : 09 AM - 09 PM</small>
             </div>
           </div>
-          <div class="col-lg-5 px-5 text-end">
+          <div class="col-lg-3 px-5 text-end">
             <div class="h-100 d-inline-flex align-items-center">
-              <a class="btn btn-square border-end border-start" href=""
+              <a class="btn btn-square border-end border-start" href="https://www.facebook.com/inmobiliariaskyb"
                 ><i class="fab fa-facebook-f"></i
               ></a>
               <a class="btn btn-square border-end" href=""
                 ><i class="fab fa-twitter"></i
               ></a>
-              <a class="btn btn-square border-end" href=""
+              <a class="btn btn-square border-end" href="https://www.instagram.com/inmobiliariaskyb/"
                 ><i class="fab fa-instagram"></i
               ></a>
               <a class="btn btn-square border-end" href=""
@@ -82,10 +88,8 @@
     
     <!-- Navbar Start -->
     <nav class="navbar navbar-expand-lg bg-white navbar-light shadow sticky-top p-0">
-        <a href="index.html" class="navbar-brand d-flex align-items-center text-center py-4 px-4 px-lg-5">
-            <h1 class="m-0 text-primary"><div class="tope">K&B</div>
-                <div><h5><p>Consultoria e Inmobiliaria</p></h5></div>
-            </h1>
+        <a href="index.php" class="navbar-brand d-flex align-items-center text-center py-2 px-2 px-lg-3">
+        <div class="logo"><img class="w-50" src="img/logo1.png" alt="Image" /></div>
         </a>
         <button type="button" class="navbar-toggler me-4" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
             <span class="navbar-toggler-icon"></span>

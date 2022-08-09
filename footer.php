@@ -8,21 +8,20 @@
      <div class="row g-5">
        <div class="col-lg-3 col-md-6">
          <h1 class="text-white mb-4">
-           <i class="fa fa-building text-primary me-3"></i>K&B
+         <img class="w-100" src="img/Logo2.png" alt="Image" />
          </h1>
          <p class="text-white">
-           Diam dolor diam ipsum sit. Aliqu diam amet diam et eos. Clita erat
-           ipsum et lorem et sit, sed stet lorem sit clita
+         Somos consientes de que la confianza es clave para mantener una buena relación entre el cliente y nosotros.
          </p>
          <div class="d-flex pt-2">
            <a class="btn btn-square btn-outline-primary me-1" href=""
              ><i class="fab fa-twitter"></i
            ></a>
-           <a class="btn btn-square btn-outline-primary me-1" href=""
+           <a class="btn btn-square btn-outline-primary me-1" href="https://www.facebook.com/inmobiliariaskyb"
              ><i class="fab fa-facebook-f"></i
            ></a>
-           <a class="btn btn-square btn-outline-primary me-1" href=""
-             ><i class="fab fa-youtube"></i
+           <a class="btn btn-square btn-outline-primary me-1" href="https://www.instagram.com/inmobiliariaskyb/"
+             ><i class="fab fa-instagram"></i
            ></a>
            <a class="btn btn-square btn-outline-primary me-0" href=""
              ><i class="fab fa-linkedin-in"></i
@@ -34,11 +33,12 @@
          <p class="text-white">
            <i class="fa fa-map-marker-alt me-3"></i>Huanuco
          </p>
-         <p class="text-white"><i class="fa fa-phone-alt me-3"></i>+012 345 67890</p>
-         <p class="text-white"><i class="fa fa-envelope me-3"></i>kybinmobiliaria@gmail.com</p>
+         <p class="text-white"><i class="fa fa-phone-alt me-3"></i>+51 941912434</p>
+         <p class="text-white"><i class="fa fa-phone-alt me-3"></i>+51 990440161</p>
+         <p class="text-white"><i class="fa fa-envelope me-3"></i>kybinmobiliaria1@gmail.com</p>
        </div>
        <div class="col-lg-3 col-md-6">
-         <h4 class="text-light mb-4">Quick Links</h4>
+         <h4 class="text-light mb-4">Links Rapidos</h4>
          <a class="btn btn-link" href="nosotros.html">Nosotros</a>
          <a class="btn btn-link" href="contactanos.html">Contactanos</a>
          <a class="btn btn-link" href="">Nuestros Servicios</a>
