@@ -7,7 +7,7 @@
           <nav aria-label="breadcrumb">
               <ol class="breadcrumb">
                   <li class="breadcrumb-item"><a href="index.php">Inicio</a></li>
-                  <li class="breadcrumb-item"><a href="">Proyectos</a></li>
+                  <li class="breadcrumb-item"><a href="proyectos.php">Proyectos</a></li>
                   <li class="breadcrumb-item text-white active" aria-current="page">Contactanos</li>
               </ol>
           </nav>
@@ -51,15 +51,9 @@
               </h1>
             </div>
             <p>
-              Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit.
-              Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit,
-              sed stet lorem sit clita duo justo magna dolore erat amet
+            K&B Consultoría e Inmobiliaria es una empresa peruana que tiene como objetivo satisfacer las necesidades inmobiliarias de su comunidad, y para ello ofrecen el servicio de asesoramiento en temas de construcción civil, compra y venta de inmuebles y desarrollo de proyectos inmobiliarios para su publico objetivo, acompañándolo en todo el proceso con un mutuo trato de honestidad y confianza. Resaltamos por tener un trato más personalizado, con una amplia variedad de productos y servicio a un precio justo.
             </p>
-            <p class="mb-4">
-              Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit.
-              Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit,
-              sed stet lorem sit clita duo justo magna dolore erat amet
-            </p>
+            
             <div class="border-top mt-4 pt-4">
               <div class="row g-4">
                 <div class="col-sm-4 d-flex wow fadeIn" data-wow-delay="0.1s">
@@ -101,9 +95,10 @@
         </div>
         <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.3s">
           <p class="mb-0">
-            Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu
-            diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet
-            lorem sit clita duo justo magna dolore erat amet
+          Se esfuerzan porque su atención sea puntual y satisfactoria a las demandas de nuestros clientes.
+          </p>
+          <p class="mb-0">
+          Priorizan ser claros y transparentes con toda la información proporcionada a nuestros clientes.
           </p>
         </div>
       </div>
