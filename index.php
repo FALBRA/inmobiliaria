@@ -32,9 +32,9 @@ include('header.php');
                         Departamentos
                       </li>
                     </ol>
-                    <a href="" class="btn btn-primary py-3 px-5"
+                    <a href="consultoria.php" class="btn btn-primary py-3 px-5"
                       >Consultoria</a>
-                    <a href="" class="btn btn-primary py-3 px-5"
+                    <a href="proyectos.php" class="btn btn-primary py-3 px-5"
                       >Proyectos</a>
                   </div>
                 </div>
@@ -66,9 +66,9 @@ include('header.php');
                         Departamentos
                       </li>
                     </ol>
-                    <a href="" class="btn btn-primary py-3 px-5"
+                    <a href="consultoria.php" class="btn btn-primary py-3 px-5"
                       >Consultoria</a>
-                    <a href="" class="btn btn-primary py-3 px-5"
+                    <a href="proyectos.php" class="btn btn-primary py-3 px-5"
                       >Proyectos</a>
                   </div>
                 </div>

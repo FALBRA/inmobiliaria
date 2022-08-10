@@ -102,7 +102,7 @@
                 <a href="consultoria.php" class="nav-item nav-link">Consultoria</a>
                 <a href="contactanos.php" class="nav-item nav-link">Contáctanos</a>
             </div>
-            <a href="" class="btn btn-primary rounded-0 py-4 px-lg-5 d-none d-lg-block">Programa una Cita<i class="fa fa-arrow-right ms-3"></i></a>
+            
         </div>
         
 
