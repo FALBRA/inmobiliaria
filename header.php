@@ -88,9 +88,9 @@
     
     <!-- Navbar Start -->
     <nav class="navbar navbar-expand-lg bg-white navbar-light shadow sticky-top p-0">
-        <a href="index.php" class="navbar-brand d-flex align-items-center text-center py-2 px-2 px-lg-3">
-        <div class="logo"><img class="w-50" src="img/logo1.png" alt="Image" /></div>
-        </a>
+        <a href="index.php" class="navbar-brand d-flex align-items-center text-center ">
+        <h1 class="m-0 text-primary text-align-center logo-header"> <img src="img/logo1.png"> </h1>  
+      </a>
         <button type="button" class="navbar-toggler me-4" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
             <span class="navbar-toggler-icon"></span>
         </button>
@@ -99,21 +99,12 @@
                 <a href="index.php" class="nav-item nav-link active">Inicio</a>
                 <a href="nosotros.php" class="nav-item nav-link">Nosotros</a>
                 <a href="proyectos.php" class="nav-item nav-link">Proyectos Inmobiliarios</a>
-               
-               <!-- alternativa ... a evaluar 
-               <div class="nav-item dropdown">
-                    <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Proyectos Inmobiliarios</a>
-                    <div class="dropdown-menu rounded-0 m-0">
-                        <a href="" class="dropdown-item">Terrenos</a>
-                        <a href="" class="dropdown-item">Casas</a>
-                        <a href="" class="dropdown-item">Departamentos</a>
-                    </div>
-                </div> -->
-                <a href="" class="nav-item nav-link">Consultoria</a>
+                <a href="consultoria.php" class="nav-item nav-link">Consultoria</a>
                 <a href="contactanos.php" class="nav-item nav-link">Contáctanos</a>
             </div>
             <a href="" class="btn btn-primary rounded-0 py-4 px-lg-5 d-none d-lg-block">Programa una Cita<i class="fa fa-arrow-right ms-3"></i></a>
         </div>
+        
 
     </nav>
     

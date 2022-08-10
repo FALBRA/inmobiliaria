@@ -4,13 +4,12 @@
    class="container-fluid bg-dark footer mt-5 pt-5 wow fadeIn"
    data-wow-delay="0.1s"
  >
-   <div class="container py-5">
+   <div class="container py-0">
      <div class="row g-5">
        <div class="col-lg-3 col-md-6">
-         <h1 class="text-white mb-4">
-         <img class="w-100" src="img/Logo2.png" alt="Image" />
-         </h1>
-         <p class="text-white">
+       <h1 class="m-0 text-primary text-align-center logo-footer"> <img src="img/logo2.png"> </h1> 
+       <p></p>  
+       <p class="text-white">
          Somos consientes de que la confianza es clave para mantener una buena relación entre el cliente y nosotros.
          </p>
          <div class="d-flex pt-2">
@@ -75,11 +74,11 @@
      </div>
    </div>
  </div>
- <!-- Footer End -->
 
    
-   </div>
+  
 
+ <!-- Footer End -->
 
    <!-- JavaScript Libraries -->
    <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
